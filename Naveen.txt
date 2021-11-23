@@ -4,3 +4,6 @@ classication of computer
 2.super
 3.mainframe
 software of computer
+hardware of computer
+1.cpu
+2.pheripherals
