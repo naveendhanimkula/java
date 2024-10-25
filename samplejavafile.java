@@ -11,7 +11,7 @@ public class FileOperationsSample {
 
         // Create and write to a file
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath))) {
-            writer.write("This is a sample text file.");
+            writer.write("This is a sample file created.");
             writer.newLine();
             writer.write("It demonstrates file operations in Java.");
             System.out.println("File created and written to: " + filePath);
